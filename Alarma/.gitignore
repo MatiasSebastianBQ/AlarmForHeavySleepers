@@ -1,0 +1,25 @@
+
+# Archivos temporales del sistema
+.DS_Store
+*.swp
+
+# Xcode: datos locales y compilaciones
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.moved-aside
+*.hmap
+
+# Configuración personal de Xcode
+*.xccheckout
+*.xcscmblueprint
+
+# Dependencias descargadas
+SourcePackages/
+
+# Secretos y configuración local
+.env
+.env.*
+!.env.example
+
