@@ -8,11 +8,25 @@
 
 /* Begin PBXFileReference section */
 		A0C4E2D0309102BF00520F68 /* Alarma.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Alarma.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A0C4E2F43091222200520F68 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		A0C4E2F33091221000520F68 /* Exceptions for "Alarma" folder in "Alarma" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				.swift,
+			);
+			target = A0C4E2CF309102BF00520F68 /* Alarma */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		A0C4E2D2309102BF00520F68 /* Alarma */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				A0C4E2F33091221000520F68 /* Exceptions for "Alarma" folder in "Alarma" target */,
+			);
 			path = Alarma;
 			sourceTree = "<group>";
 		};
@@ -30,6 +44,7 @@
 		A0C4E2C7309102BF00520F68 = {
 			isa = PBXGroup;
 			children = (
+				A0C4E2F43091222200520F68 /* README.md */,
 				A0C4E2D2309102BF00520F68 /* Alarma */,
 				A0C4E2D1309102BF00520F68 /* Products */,
 			);

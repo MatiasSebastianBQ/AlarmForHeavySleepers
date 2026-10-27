@@ -76,7 +76,6 @@ HeavySleepers/
 
 Las siguientes propuestas podrán incorporarse a medida que avance el desarrollo:
 
-- [ ] Implementar la creación, edición y eliminación de alarmas.
 - [ ] Añadir opciones de personalización de las alarmas.
 - [ ] Explorar mecanismos para facilitar el despertar.
 - [ ] Mejorar la accesibilidad y la experiencia de usuario.
